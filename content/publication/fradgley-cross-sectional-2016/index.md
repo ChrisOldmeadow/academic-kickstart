@@ -1,0 +1,12 @@
+---
+title: "Cross-sectional data that explore the relationship between outpatients' quality of life and preferences for quality improvement in oncology settings"
+date: 2016-06-01
+publishDate: 2020-07-25T05:29:21.263447Z
+authors: ["E.A. Fradgley", "J. Bryant", "C.L. Paul", "A.E. Hall", "R.W. Sanson-Fisher", "C. Oldmeadow"]
+publication_types: ["2"]
+abstract: "Copyright © 2016 by American Society of Clinical Oncology. Purpose This cross-sectional study assessed the association between oncology outpatients' quality improvement preferences and health-related quality of life (HRQoL). Implementation of specific initiatives preferred by patients with lower HRQoL may be a strategic approach to enhancing care for potentially vulnerable patients. Methods English-speaking adults were recruited from five outpatient chemotherapy clinics located in New South Wales, Australia. Using touch screen devices, participants selected up to 25 initiatives that would improve their experiences and completed the Functional Assessment of Cancer Therapy-General (FACT-G) survey. The logistic odds of selecting an initiative according to FACT-G scores were calculated to determine whether preferences were associated with HRQoL after controlling for potential confounders. Results Of the 411 eligible outpatients approached to participate, 263 (64%) completed surveys. Commonly selected initiatives were up-to-date information on treatment and condition progress (19.8%), access to or information on financial assistance (18.3%), and reduced clinic wait times (17.5%). For those with relatively lower FACT-G scores, the adjusted odds of selecting five initiatives illustrated an increasing trend: convenient appointment scheduling systems (+23% [P =.002]), reduced wait times (+15% [P =.01]), information on medical emergencies (+14% [P =.04]), access to or information on financial assistance (+15% [P =.009]), help to maintain daily living activities (+18% [P =.007]). Conclusion Two areas of improvement were commonly selected: easily accessible health services and information and support for self-management. Although the results suggest an association between a few quality improvement preferences and HRQoL, a wider spectrum of patient characteristics must be considered when targeting quality improvement to patient subgroups."
+featured: false
+publication: "*Journal of Oncology Practice*"
+doi: "10.1200/JOP.2016.011023"
+---
+

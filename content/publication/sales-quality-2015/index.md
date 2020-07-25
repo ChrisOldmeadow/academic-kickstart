@@ -1,0 +1,12 @@
+---
+title: "Quality of referrals and guideline compliance for time to consultation at an acute neurovascular clinic"
+date: 2015-01-01
+publishDate: 2020-07-25T05:29:21.244094Z
+authors: ["M. Sales", "D. Quain", "D. Lasserson", "C. Levi", "C. Oldmeadow", "M. Jiwa", "M. Parsons", "M. Russell", "J. Clarey", "P. Magin"]
+publication_types: ["2"]
+abstract: "© 2015 by National Stroke Association. Background: The Age, Blood pressure, Clinical features, Duration of symptoms, Diabetes (ABCD2) score can be used to predict early recurrent stroke risk following Transient ischemic attack (TIA). Given that recurrent stroke risk can be as high as 20% in the first week, international guidelines recommend ''high-risk'' TIAs (ABCD2 .3) be seen by specialist services such as dedicated acute neurovascular clinics within 24 hours. The goal of this study was to examine the associations of both quality of referrals to a specialist acute clinic and of \"guideline congruence\" of time-to-clinic consultation after TIA/minor stroke. We hypothesized highquality referrals containing key clinical elements would be associated with greater guideline congruence. Methods: A retrospective analysis of referrals to an acute neurovascular clinic within a tertiary care hospital of consecutive patients with TIA/minor stroke. Quality of general practitioner and emergency department referrals was defined on the basis of information content enabling ABCD2-based risk stratification by the clinic triage service. Time-to-clinic consultation was used to define \"guideline congruence.\" Results: Referrals of 148 consecutive eligible patients were reviewed. Sixty-six percent of cases were subsequently neurologist-diagnosed as TIA or minor stroke. Seventy-nine percent were referred by general practitioners. Fifty-three percent of referrals were of high quality, but quality was not associated with guideline congruence. Of the high-risk patients, only 3.6% were seen at the clinic within 24 hours of index event and 31.3% within 24 hours of referral. Conclusions: Current guidelines are pathophysiologically logical and evidence based, but are difficult to implement. Improving quality of primary-secondary communication by improved referral quality is unlikely to improve guideline compliance. Alternative strategies are needed to reduce recurrent stroke risk after TIA/minor stroke."
+featured: false
+publication: "*Journal of Stroke and Cerebrovascular Diseases*"
+doi: "10.1016/j.jstrokecerebrovasdis.2014.12.004"
+---
+

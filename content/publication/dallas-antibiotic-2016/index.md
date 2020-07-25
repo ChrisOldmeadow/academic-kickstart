@@ -1,0 +1,12 @@
+---
+title: "Antibiotic prescribing for sore throat: A cross-sectional analysis of the ReCEnT study exploring the habits of early-career doctors in family practice"
+date: 2016-06-01
+publishDate: 2020-07-25T05:29:21.262168Z
+authors: ["A. Dallas", "M. van Driel", "S. Morgan", "A. Tapley", "K. Henderson", "J. Ball", "C. Oldmeadow", "A. Davey", "K. Mulquiney", "J. Davis", "N. Spike", "L. McArthur", "P. Magin"]
+publication_types: ["2"]
+abstract: "© The Author 2016. Published by Oxford University Press. All rights reserved. Background: Acute sore throat is a common condition presenting to family practitioners. It is usually self-limiting, with antibiotic treatment recommended only for high-risk presentations. Overprescribing of antibiotics contributes to individual and community resistance. Learning to prescribe in the context of diagnostic uncertainty and patient pressures is a challenge for early-career doctors. Prescribing habits develop early and tend not to change with time. Objective: To establish the prevalence and associations of antibiotic prescribing for acute sore throat by Australian vocational trainees in family practice. Method: A cross-sectional analysis of data from the Registrar Clinical Encounters in Training (ReCEnT) study. This ongoing, multicentre prospective cohort study documents the nature of trainees' consultation-based clinical experiences. Univariate and logistic regression analyses were conducted on data recorded in consultations for sore throat in nine collection periods during 2010-14. Results: Data from 856 individual trainees (response rate 95.2%) were analysed. Sore throat was managed in 2.3% encounters. Antibiotics were prescribed for 71.5% of sore throat diagnoses. The variables associated with prescribing were inner-regional location and higher socio-economic area. There was no significant association with younger age of patient or greater trainee experience. If an antibiotic was prescribed, the trainee was more likely to seek information from guidelines or a supervisor. Conclusions: The high frequency of antibiotic prescribing and the lack of attenuation in prescribing with increased experience suggest current educational interventions and the apprenticeship model of training is not fostering appropriate practice in this important clinical area. Targeted educational interventions, for supervisors as well as trainees, are indicated."
+featured: false
+publication: "*Family Practice*"
+doi: "10.1093/fampra/cmw014"
+---
+

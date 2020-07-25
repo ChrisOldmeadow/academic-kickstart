@@ -1,0 +1,12 @@
+---
+title: "The Pattern of Opioid Management by Australian General Practice Trainees"
+date: 2015-09-01
+publishDate: 2020-07-25T05:29:21.248821Z
+authors: ["S. Holliday", "S. Morgan", "A. Tapley", "A. Dunlop", "K. Henderson", "M. van Driel", "N. Spike", "L. Mcarthur", "J. Ball", "C. Oldmeadow", "P. Magin"]
+publication_types: ["2"]
+abstract: "© 2015 American Academy of Pain Medicine. Objective: With escalating opioid prescribing come individual and public health harms. To inform quality improvement measures, understanding of opioid prescribing is essential. We aimed to establish consultation-level prevalence and associations of opioid prescribing. Design: A cross-sectional secondary analysis from a longitudinal multisite cohort study of general practitioner (GP) vocational trainees: \"Registrar Clinical Encounters in Training.\" Setting: Four of Australia's seventeen GP Regional Training Providers, during 2010-13. Subjects: GP trainees. Methods: Practice and trainee demographic data were collected as well as patient, clinical and educational data of 60 consecutive consultations of each trainee, each training term. Outcome factors were any opioid analgesic prescription and initial opioid analgesic prescription for a specific problem for the first time. Results: Overall, 645 trainees participated. Opioids comprised 4.3% prescriptions provided for 3.8% of patients. Most frequently prescribed were codeine (39.9%) and oxycodone (33.4%). Prescribing was for acute pain (29.3%), palliative care (2.6%) or other indications (68.1%). Most prescribing involved repeat prescriptions for pre-existing problems (62.7% of total). Other associations included older patients; prescriber and patient male gender; Aboriginal/Torres Strait Islander status; rural and disadvantaged locations; longer consultations; and generation of referrals, follow-up, and imaging requests. Opioid initiation was more likely for new patients with new problems, but otherwise associations were similar. Trainees rarely reported addiction risk-mitigation strategies. Conclusions: Most opioids were prescribed as maintenance therapy for non-cancer pain. Demographic associations with opioid analgesic prescribing resemble those presenting for opioid dependency treatment. Our findings should inform measures by regulators and medical educators supporting multimodal pain management."
+featured: false
+publication: "*Pain Medicine (United States)*"
+doi: "10.1111/pme.12820"
+---
+

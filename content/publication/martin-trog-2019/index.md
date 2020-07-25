@@ -1,0 +1,13 @@
+---
+title: "TROG 18.01 phase III randomised clinical trial of the Novel Integration of New prostate radiation schedules with adJuvant Androgen deprivation: NINJA study protocol"
+date: 2019-01-01
+publishDate: 2020-07-25T05:29:21.063707Z
+authors: ["J. Martin", "P. Keall", "S. Siva", "P. Greer", "D. Christie", "K. Moore", "J. Dowling", "D. Pryor", "P. Chong", "N. McLeod", "A. Raman", "J. Lynam", "J. Smart", "C. Oldmeadow", "C.I. Tang", "D.G. Murphy", "J. Millar", "K.H. Tai", "L. Holloway", "P. Reeves", "A. Hayden", "T. Lim", "T. Holt", "M. Sidhom"]
+publication_types: ["2"]
+abstract: "© 2019 Author(s). Introduction Stereotactic body radiotherapy (SBRT) is a non-invasive alternative to surgery for the treatment of non-metastatic prostate cancer (PC). The objectives of the Novel Integration of New prostate radiation schedules with adJuvant Androgen deprivation (NINJA) clinical trial are to compare two emerging SBRT regimens for efficacy with technical substudies focussing on MRI only planning and the use of knowledge-based planning (KBP) to assess radiotherapy plan quality. Methods and analysis Eligible patients must have biopsy-proven unfavourable intermediate or favourable high-risk PC, have an Eastern Collaborative Oncology Group (ECOG) performance status 0-1 and provide written informed consent. All patients will receive 6 months in total of androgen deprivation therapy. Patients will be randomised to one of two SBRT regimens. The first will be 40 Gy in five fractions given on alternating days (SBRT monotherapy). The second will be 20 Gy in two fractions given 1 week apart followed 2 weeks later by 36 Gy in 12 fractions given five times per week (virtual high-dose rate boost (HDRB)). The primary efficacy outcome will be biochemical clinical control at 5 years. Secondary endpoints for the initial portion of NINJA look at the transition of centres towards MRI only planning and the impact of KBP on real-time (RT) plan assessment. The first 150 men will demonstrate accrual feasibility as well as addressing the KBP and MRI planning aims, prior to proceeding with total accrual to 472 patients as a phase III randomised controlled trial. Ethics and dissemination NINJA is a multicentre cooperative clinical trial comparing two SBRT regimens for men with PC. It builds on promising results from several single-armed studies, and explores radiation dose escalation in the Virtual HDRB arm. The initial component includes novel technical elements, and will form an important platform set for a definitive phase III study. Trial registration number ANZCTN 12615000223538."
+featured: false
+publication: "*BMJ Open*"
+tags: ["protocol"]
+doi: "10.1136/bmjopen-2019-030731"
+---
+
